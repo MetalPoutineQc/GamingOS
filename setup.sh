@@ -2,4 +2,5 @@
 
 cp -r "cinnamon (config)" ~/.config/cinnamon
 cp -r "cinnamon (local)" ~/.local/share/cinnamon
-cp -r Pictures ~/Pictures
+dconf load /org/cinnamon/ < cinnamon-desktop.conf
+dconf load /org/cinnamon/desktop/peripherals/mouse/ < cinnamon-peripheral.conf
