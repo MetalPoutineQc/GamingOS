@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Red Nebula</name>
+    <filename>/usr/share/backgrounds/custom/wallhaven-76ol3e.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Unknown</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Blue Nebula</name>
+    <filename>/usr/share/backgrounds/custom/wallhaven-p2jpo9.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Unknown</artist>
+</wallpaper>
+
+<wallpaper deleted="false">
+    <name>Purple Nebula</name>
+    <filename>/usr/share/backgrounds/custom/wallhaven-y8ewzk.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>Unknown</artist>
+</wallpaper>
+
+</wallpapers>
