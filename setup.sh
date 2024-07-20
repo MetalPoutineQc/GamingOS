@@ -8,7 +8,7 @@ flatpak install --app com.github.tchx84.Flatseal com.github.Matoking.protontrick
 cd /usr/src
 sudo wget https://github.com/flightlessmango/MangoHud/releases/download/v0.7.2/MangoHud-0.7.2.r0.g7b80f73.tar.gz
 sudo gunzip MangoHud-*.tar.gz && sudo tar -xvf MangoHud-*.tar
-cd /usr/src/Mangohud
+cd /usr/src/MangoHud
 sudo ./mangohud-setup.sh install
 echo "Installation terminée"
 
