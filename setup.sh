@@ -20,5 +20,6 @@ dconf load /org/cinnamon/ < cinnamon-desktop.conf
 dconf load /org/cinnamon/desktop/peripherals/mouse/ < cinnamon-peripheral.conf
 
 echo "Installation terminée"
+touch .configuration_done
 echo "Redémarrage"
 init 6
